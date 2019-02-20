@@ -1,138 +1,0 @@
-[1mdiff --git a/README.md b/README.md[m
-[1mindex ae4e3cb..493a709 100644[m
-[1m--- a/README.md[m
-[1m+++ b/README.md[m
-[36m@@ -1,2 +1,4 @@[m
- # projeto[m
- alterei no remoto[m
-[32m+[m[32meu coloquei outra linha[m
-[32m+[m[32muee[m
-[1mdiff --git a/ponto.txt b/ponto.txt[m
-[1mindex ceea5a0..003146c 100644[m
-[1m--- a/ponto.txt[m
-[1m+++ b/ponto.txt[m
-[36m@@ -1,84 +1,39 @@[m
-[31m-bláh bláh bláh[m
-[31m-é o tchan[m
-[31m-nao da pra esconder[m
-[31m-e[m
-[31m-u[m
-[31m-n[m
-[31m-a[m
-[31m-o[m
-[31m-s[m
-[31m-o[m
-[31m-u[m
-[31m-l[m
-[31m-e[m
-[31m-g[m
-[31m-a[m
-[31m-l[m
-[31m-e[m
-[31m-n[m
-[31m-p[m
-[31m-a[m
-[31m-g[m
-[31m-o[m
-[31m-c[m
-[31m-o[m
-[31m-n[m
-[31m-t[m
-[31m-a[m
-[31m-s[m
-[31m-a[m
-[31m-m[m
-[31m-e[m
-[31m-m[m
-[31m-s[m
-[31m-a[m
-[31m-a[m
-[31m-s[m
-[31m-a[m
-[31m-sd[m
-[31m-as[m
-[31m-dasda[m
-[31m-sd[m
-[31m-[m
-[31m-sd[m
-[31m-a[m
-[31m-sda[m
-[31m-sd[m
-[31m-asd[m
-[31m-a[m
-[31m-sd[m
-[31m-a[m
-[31m-sd[m
-[31m-as[m
-[31m-d[m
-[31m-asd[m
-[31m-a[m
-[31m-sd[m
-[31m-as[m
-[31m-d[m
-[31m-asd[m
-[31m-sd[m
-[31m-asd[m
-[31m-[m
-[31m-s[m
-[31m-[m
-[31m-sd[m
-[31m-asd[m
-[31m-as[m
-[31m-d[m
-[31m-asd[m
-[31m-a[m
-[31m-sd[m
-[31m-asda[m
-[31m-d[m
-[31m-sd[m
-[31m-a[m
-[31m-sd[m
-[31m-a[m
-[31m-d[m
-[31m-sd[m
-[31m-as[m
-[31m-da[m
-[31m-sd[m
-[31m-as[m
-[31m-d[m
-[32m+[m[32m﻿bláh bláh bláh[m[41m[m
-[32m+[m[32mésa od[m[41m[m
-[32m+[m[32m  sas[m[41m[m
-[32m+[m[32md  tcd[m[41m [m
-[32m+[m[32masd[m[41m[m
-[32m+[m[32mas[m[41m[m
-[32m+[m[32md[m[41m[m
-[32m+[m[32m asdasdasdq[m[41m[m
-[32m+[m[32mwd w[m[41m[m
-[32m+[m[32md a[m[41m[m
-[32m+[m[32msd[m[41m[m
-[32m+[m[32masdasd asdh as das[m[41m[m
-[32m+[m[32md asd afa[m[41m[m
-[32m+[m[32mdjfasdf sdofjsod[m[41m [m
-[32m+[m[32mado fsdfk sdfos fk asdfj[m[41m[m
-[32m+[m[32makhan[m[41m[m
-[32m+[m[32mnaasdo da pra esconder[m[41m[m
-[32m+[m[32me[m[41m[m
-[32m+[m[32mu[m[41m[m
-[32m+[m[32mnwkjedaosjd[m[41m [m
-[32m+[m[32mc s0diasdpk[m[41m [m
-[32m+[m[32masd[m[41m[m
-[32m+[m[32m skd[m[41m[m
-[32m+[m[32maskd aeiuyr283487wedfbne78 e7 y89wer073 yy[m[41m[m
-[32m+[m[32m[m[41m[m
-[32m+[m[32mmsidasodj aodj[m[41m[m
-[32m+[m[32ma[m[41m[m
-[32m+[m[32msda[m[41m[m
-[32m+[m[32msd[m[41m[m
-[32m+[m[32masdksd[m[41m[m
-[32m+[m[32ma[m[41m[m
-[32m+[m[32ma[m[41m[m
-[32m+[m[32mno[m[41m [m
-[32m+[m[32mva[m[41m[m
-[32m+[m[32mera[m[41m[m
-[32m+[m[32msjdnasjdafhsd fa[m[41m[m
-[32m+[m[32ms difjsdf a[m[41m[m
-[32m+[m[32mdnsdjsdhsr838sdnas sdjsodjm[m[41m [m
-[32m+[m[32msiodms38q2-1093ui[m
-\ No newline at end of file[m
